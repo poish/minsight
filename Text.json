@@ -1,0 +1,393 @@
+{
+"words": [
+    {   "s": "Powoli", "dict": "Powoli", "tr": "gradually, slowly", "type": "adverb",
+        "info": [
+            { "pr": "degree", "v": "positive"}
+        ]
+    },
+    { "s": "zrozumiałem,", "dict": "zrozumieć", "tr": "to understand", "type": "verb",
+        "info": [
+            { "pr": "person", "v": "1st"},
+            { "pr": "gender", "v": "masculine"},
+            { "pr": "number", "v": "singular"},
+            { "pr": "tense", "v": "past"},
+            { "pr": "mood", "v": "indicative"},
+            { "pr": "aspect", "v": "perfective"},
+            { "pr": "voice", "v": "active"}
+        ]
+    },
+    { "s": "Mały", "dict": "mały", "tr": "little, small", "type": "noun",
+        "info": [
+            { "pr": "case", "v": "vocative" },
+            { "pr": "number", "v": "singular" }
+        ]
+    },
+    { "s": "Książę,", "dict": "książę", "tr": "prince", "type": "noun",
+        "info": [
+            { "pr": "case", "v": "vocative" },
+            { "pr": "number", "v": "singular" }
+        ]
+    },
+    { "s": "twoje", "dict": "twój", "tr": "your", "type": "possessive pronoun",
+        "info": [
+            { "pr": "case", "v": "accusative" },
+            { "pr": "number", "v": "singular" }
+        ]
+    },
+    { "s": "smutne", "dict": "smutny", "tr": "sad", "type": "adjective",
+        "info": [
+            { "pr": "case", "v": "accusative" },
+            { "pr": "degree", "v": "positive" }
+        ]
+    },
+    { "s": "życie.", "dict": "życie", "tr": "life", "type": "noun",
+        "info": [
+            { "pr": "case", "v": "accusative" },
+            { "pr": "number", "v": "singular" }
+        ]
+    },
+    { "s": "Od", "dict": "od", "tr": "since", "type": "preposition",
+        "info": [
+            { "pr": "form", "v": "undeclensible"}
+        ]
+    },
+    { "s": "dawna", "dict": "dawno", "tr": "long time", "type": "noun",
+        "info": [
+            { "pr": "case", "v": "genitive"}
+        ]
+
+    },
+    { "s": "jedyną", "dict": "jedyny", "tr": "only", "type": "adjective",
+        "info": [
+            { "pr": "case", "v": "instrumentative"}
+        ]
+    },
+    { "s": "rozrywką", "dict": "rozrywka", "tr": "entertainment", "type": "noun",
+        "info": [
+            { "pr": "case", "v": "instrumentative"}
+        ]
+    },
+    { "s": "był", "dict": "być", "tr": "to be", "type": "verb",
+        "info": [
+            { "pr": "person", "v": "3rd"},
+            { "pr": "gender", "v": "masculine"},
+            { "pr": "number", "v": "singular"},
+            { "pr": "tense", "v": "past"},
+            { "pr": "mood", "v": "indicative"},
+            { "pr": "aspect", "v": "perfective"},
+            { "pr": "voice", "v": "active"}
+        ]
+    },
+    { "s": "dla", "dict": "dla", "tr": "for", "type": "preposition",
+        "info": [
+            { "pr": "no", "v": "declension"}
+        ]
+    },
+    { "s": "ciebie", "dict": "ty", "tr": "you", "type": "personal pronoun",
+    "info": [
+        { "pr": "case", "v": "genitive"}
+    ]
+    },
+    { "s": "urok", "dict": "urok", "tr": "charm", "type": "noun",
+        "info": [
+            { "pr": "case", "v": "nominative"}
+        ]
+    },
+    { "s": "zachodów", "dict": "zachód", "tr": "set, sunset", "type": "noun",
+        "info": [
+            { "pr": "case", "v": "genitive"},
+            { "pr": "number", "v": "plural"}
+        ] 
+    },
+    { "s": "słońca.", "dict": "słońce", "tr": "sun", "type": "noun",
+        "info": [
+            { "pr": "case", "v": "genitive"},
+            { "pr": "number", "v": "singular"}
+        ] 
+    },
+    { "s": "Ten", "dict": "ten", "tr": "this", "type": "demonstrative pronoun",
+        "info": [
+            { "pr": "case", "v": "nominative"},
+            { "pr": "number", "v": "singular"}
+        ] },
+    { "s": "nowy", "dict": "nowy", "tr": "new", "type": "adjective",
+        "info": [
+            { "pr": "degree", "v": "positive"},
+            { "pr": "case", "v": "accusative"}
+        ]
+    },
+    { "s": "szczegół", "dict": "szczegół", "tr": "detail", "type": "noun",
+        "info": [
+            { "pr": "case", "v": "accusative" },
+            { "pr": "number", "v": "singular" }
+        ]
+    },
+    { "s": "twojego", "dict": "twój", "tr": "your", "type": "possesive pronoun",
+        "info": [
+            { "pr": "case", "v": "genitive" },
+            { "pr": "number", "v": "singular" }
+        ]
+    },
+    { "s": "życia", "dict": "życie", "tr": "life", "type": "noun",
+        "info": [
+            { "pr": "case", "v": "genitive" }
+        ]
+    },
+    { "s": "poznałem", "dict": "poznawać", "tr": "to get to know", "type": "verb",
+        "info": [
+            { "pr": "person", "v": "1st"},
+            { "pr": "gender", "v": "masculine"},
+            { "pr": "number", "v": "singular"},
+            { "pr": "tense", "v": "past"},
+            { "pr": "mood", "v": "indicative"},
+            { "pr": "aspect", "v": "perfective"},
+            { "pr": "voice", "v": "active"}
+        ]
+    },
+    { "s": "czwartego", "dict": "czwarty", "tr": "fourth", "type": "ordinal numerator",
+        "info": [
+            { "pr": "case", "v": "genitive" }
+        ]
+    },
+    { "s": "dnia", "dict": "dzień", "tr": "day", "type": "noun",
+        "info": [
+            { "pr": "case", "v": "genitive" }
+        ]
+    },
+    { "s": "rano,", "dict": "rano", "tr": "at the morning", "type": "adverb",
+        "info": [
+            { "pr": "degree", "v": "positive" }
+        ]
+    },
+    { "s": "gdyś", "dict": "gdy + żeś", "tr": "when + you", "type": "conjunction",
+        "info": [
+            { "pr": "form", "v": "contracted"}
+        ]
+    },
+    { "s": "mi", "dict": "ja", "tr": "I", "type": "personal pronoun",
+        "info": [
+            { "pr": "case", "v": "dative" }
+        ]
+    },
+    { "s": "powiedział:", "dict": "powiedzieć", "tr": "to tell", "type": "verb",
+        "info": [
+            { "pr": "person", "v": "2nd (archaic)"},
+            { "pr": "gender", "v": "masculine"},
+            { "pr": "number", "v": "singular"},
+            { "pr": "tense", "v": "past"},
+            { "pr": "mood", "v": "indicative"},
+            { "pr": "aspect", "v": "perfective"},
+            { "pr": "voice", "v": "active" }
+        ]
+    },
+    { "s": "Bardzo", "dict": "bardzo", "tr": "very", "type": "adverb",
+        "info": [
+            { "pr": "degree", "v": "positive"}
+        ]
+    },
+    { "s": "lubię",  "dict": "lubić", "tr": "to like, to enjoy", "type": "verb", 
+        "info": [
+            { "pr": "person", "v": "1st"},
+            { "pr": "gender", "v": "masculine = feminine"},
+            { "pr": "number", "v": "singular"},
+            { "pr": "tense", "v": "present"},
+            { "pr": "mood", "v": "indicative"},
+            { "pr": "aspect", "v": "imperfective"},
+            { "pr": "voice", "v": "active" }
+        ]
+    },
+    { "s": "zachody", "dict": "zachód", "tr": "sunset", "type": "noun",
+        "info": [
+            { "pr": "case", "v": "accusative" }
+        ]
+    },
+    { "s": "słońca.", "dict": "słońce", "tr": "sun", "type": "noun",
+        "info": [
+            { "pr": "case", "v": "genitive" }
+        ]
+    },
+    { "s": "- Chodźmy", "dict": "chodzić", "tr": "To walk", "type": "verb",
+        "info": [
+            { "pr": "person", "v": "1st"},
+            { "pr": "gender", "v": "masculine"},
+            { "pr": "number", "v": "plural"},
+            { "pr": "tense", "v": "present"},
+            { "pr": "mood", "v": "indicative"},
+            { "pr": "aspect", "v": "?"},
+            { "pr": "voice", "v": "active" }
+        ]    
+    },
+    { "s": "zobaczyć", "dict": "zobaczyć", "tr": "to see", "type": "verb",
+        "info": [
+            { "pr": "tense", "v": "infinitive" }
+        ]
+    },
+    { "s": "zachód", "dict": "zachód", "tr": "sunset", "type": "noun",
+        "info": []
+    },
+    { "s": "słońca.", "dict": "słońce", "tr": "sun", "type": "noun",
+        "info": []
+    },
+    { "s": "- Ale", "dict": "ale", "tr": "but", "type": "conjunction",
+        "info": []
+    },
+
+    { "s": "trzeba", "dict": "trzeba", "tr": "to have to", "type": "verb",
+        "info": [
+            { "pr": "tense", "v": "present"},
+            { "pr": "mood", "v": "indicative"},
+            { "pr": "voice", "v": "active" }
+        ]
+    },
+    { "s": "poczekać.", "dict": "poczekać", "tr": "to wait", "type": "verb",
+        "info": []
+    },
+    { "s": "- Poczekać", "dict": "poczekać", "tr": "to wait", "type": "verb",
+        "info": []
+    },
+    { "s": "na", "dict": "na", "tr": "for, on", "type": "?",
+        "info": []
+    },
+    { "s": "co?", "dict": "co", "tr": "what", "type": "interrogative pronoun",
+        "info": [
+            { "pr": "type", "v": "impersonal" }
+        ]
+    },
+    { "s": "- Poczekać", "dict": "poczekać", "tr": "to wait", "type": "verb",
+        "info": [
+            { "pr": "form", "v": "infinitive" }
+        ]
+    },
+
+    { "s": "aż", "dict": "aż", "tr": "until", "type": "conjunction",
+        "info": []
+    },
+
+    { "s": "słońce", "dict": "słońce", "tr": "sun", "type": "noun",
+        "info": []
+    },
+    { "s": "zacznie", "dict": "zaczynać", "tr": "to begin", "type": "verb",
+        "info": [
+            { "pr": "person", "v": "3rd"},
+            { "pr": "gender", "v": "neutral"},
+            { "pr": "number", "v": "singular"},
+            { "pr": "tense", "v": "future"},
+            { "pr": "mood", "v": "indicative"},
+            { "pr": "aspect", "v": "?"},
+            { "pr": "voice", "v": "active" }
+        ]
+    },
+    { "s": "zachodzić.", "dict": "zachodzić", "tr": "to set", "type": "verb",
+        "info": [
+            { "pr": "form", "v": "infinitive" }
+        ]
+    },
+    { "s": "Początkowo", "dict": "początkowo", "tr": "initially", "type": "adverb",
+        "info": [
+            { "pr": "degree", "v": "positive" }
+        ]
+    },
+    { "s": "zrobiłeś", "dict": "robić", "tr": "to make, to do", "type": "verb",
+        "info": [
+            { "pr": "person", "v": "2nd"},
+            { "pr": "gender", "v": "masculine"},
+            { "pr": "number", "v": "singular"},
+            { "pr": "tense", "v": "past"},
+            { "pr": "mood", "v": "indicative"},
+            { "pr": "aspect", "v": "perfective"},
+            { "pr": "voice", "v": "active" }
+        ]
+    },
+    { "s": "zdziwioną",  "dict": "zdziwiony", "tr": "surprised", "type": "adjective",
+        "info": [
+            { "pr": "degree", "v": "positive" },
+            { "pr": ""}
+        ]
+    },
+    { "s": "minę", "dict": "mina", "tr": "face(expression)", "type": "noun",
+        "info": [
+            { "pr": "case", "v": "accusative" }
+        ]
+    },
+    { "s": "a", "dict": "a", "tr": "but, and", "type": "conjunction",
+        "info": []
+    },
+    { "s": "później", "dict": "późno", "tr": "later, after", "type": "adverb",
+        "info": [
+            { "pr": "degree", "v": "comparative"}
+        ]
+    },
+    { "s": "roześmiałeś", "dict": "roześmiać się", "tr": "to laugh", "type": "verb",
+        "info": [
+            { "pr": "person", "v": "2nd"},
+            { "pr": "gender", "v": "masculine"},
+            { "pr": "number", "v": "singular"},
+            { "pr": "tense", "v": "past"},
+            { "pr": "mood", "v": "indicative"},
+            { "pr": "aspect", "v": "perfective"},
+            { "pr": "voice", "v": "active" }
+        ]
+    },
+    { "s": "się", "dict": "się", "tr": "oneself", "type": "reflexive pronoun",
+        "info": []
+    },
+    { "s": "i", "dict": "i", "tr": "and", "type": "conjunction",
+        "info": []
+    },
+    { "s": "rzekłeś:", "dict": "rzec", "tr": "to say, to speak(archaic)", "type": "verb",
+        "info": [
+            { "pr": "person", "v": "2nd"},
+            { "pr": "gender", "v": "masculine"},
+            { "pr": "number", "v": "singular"},
+            { "pr": "tense", "v": "past"},
+            { "pr": "mood", "v": "indicative"},
+            { "pr": "aspect", "v": "perfective"},
+            { "pr": "voice", "v": "active" }
+        ]
+    },
+    { "s": "- Ciągle", "dict": "ciągle", "tr": "constantly, incessantly", "type": "adverb",
+        "info": [
+            { "pr": "degree", "v": "positive" }
+        ]
+    },
+    { "s": "mi", "dict": "ja", "tr": "I", "type": "personal pronoun",
+        "info": [
+            { "pr": "case", "v": "dative" }
+        ]
+    },
+    { "s": "się", "dict": "się", "tr": "oneself", "type": "reflexive pronoun",
+        "info": []
+    },
+    { "s": "wydaje", "dict": "wydawać się", "tr": "to seem", "type": "verb",
+    "info": [
+            { "pr": "person", "v": "3nd"},
+            { "pr": "gender", "v": "masculine"},
+            { "pr": "number", "v": "singular"},
+            { "pr": "tense", "v": "present"},
+            { "pr": "mood", "v": "indicative"},
+            { "pr": "aspect", "v": "?"},
+            { "pr": "voice", "v": "active" }
+        ]
+    },
+    { "s": "że", "dict": "że", "tr": "that", "type": "conjunction",
+        "info": []
+    },
+    { "s": "jestem", "dict": "być", "tr": "To be", "type": "verb",
+        "info": [
+            { "pr": "person", "v": "1st"},
+            { "pr": "gender", "v": "masculine"},
+            { "pr": "number", "v": "singular"},
+            { "pr": "tense", "v": "present"},
+            { "pr": "mood", "v": "indicative"},
+            { "pr": "aspect", "v": "?"},
+            { "pr": "voice", "v": "active" }
+        ]
+    },
+    { "s": "u", "dict": "u", "tr": "at", "type": "preposition",
+        "info": []
+    },
+    { "s": "siebie.", "dict": "siebie", "tr": "?", "type": "reflexive pronoun",
+        "info": []
+    }
+    ]
+}
