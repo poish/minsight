@@ -1,5 +1,4 @@
-{
-"words": [
+[
     {   "s": "Powoli", "dict": "Powoli", "tr": "gradually, slowly", "type": "adverb",
         "info": [
             { "pr": "degree", "v": "positive"}
@@ -389,5 +388,4 @@
     { "s": "siebie.", "dict": "siebie", "tr": "?", "type": "reflexive pronoun",
         "info": []
     }
-    ]
-}
+]
